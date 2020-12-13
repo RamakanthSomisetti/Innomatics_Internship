@@ -1,0 +1,7 @@
+@import url("https://fonts.google.com/css?family=poppins:400.500.600.700&display=swap");
+@import url("https://fonts.google.com/css?family=montserrat:600&display=swap");
+body.pic{
+  position: relative;
+  height: 50px;
+  width: 50px;
+}
